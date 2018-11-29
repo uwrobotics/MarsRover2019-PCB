@@ -6,11 +6,14 @@ Possibly LEDs on sensors
 We do not have centralised power rails so I need a 5V to 3V3 LDO of some sort (template apparently incoming)
 
 Connector comments:
-Separate ENC/LS from PWM/DIR (see previous design for reference)
+
 Still unsure about what encoders are being used
 They do use 5V power 
-Limit switches get pulled up to 3V3
-PWM gets pulled down
-I forgot to pull up I2C
+
 
 Consider some extra I2C connectors just in case
+
+Check pin table by Florence
+2 limit switches for elevator
+
+update connector sheet to match new net names
