@@ -1,6 +1,6 @@
 Chat with Florence, 22/11
 General comments:
-Testpoints on ALL THE THINGS (CAN, I2C, sensors)
+
 LEDs on power rails
 Possibly LEDs on sensors
 We do not have centralised power rails so I need a 5V to 3V3 LDO of some sort (template apparently incoming)
@@ -13,7 +13,3 @@ They do use 5V power
 
 Consider some extra I2C connectors just in case
 
-Check pin table by Florence
-2 limit switches for elevator
-
-update connector sheet to match new net names
