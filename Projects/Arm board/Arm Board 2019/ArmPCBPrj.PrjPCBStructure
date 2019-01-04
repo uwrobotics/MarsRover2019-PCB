@@ -1,5 +1,1 @@
-Record=TopLevelDocument|FileName=Template.SchDoc
-Record=SheetSymbol|SourceDocument=Template.SchDoc|Designator=CAN|SchDesignator=CAN|FileName=CAN.SchDoc|SymbolType=Normal|RawFileName=CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Template.SchDoc|Designator=Connectors|SchDesignator=Connectors|FileName=Connectors.SchDoc|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Template.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Template.SchDoc|Designator=Support|SchDesignator=Support|FileName=Support.SchDoc|SymbolType=Normal|RawFileName=Support.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=CAN.SchDoc
