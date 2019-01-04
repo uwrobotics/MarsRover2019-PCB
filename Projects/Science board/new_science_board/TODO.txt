@@ -1,0 +1,15 @@
+Chat with Florence, 22/11
+General comments:
+
+LEDs on power rails
+Possibly LEDs on sensors
+We do not have centralised power rails so I need a 5V to 3V3 LDO of some sort (template apparently incoming)
+
+Connector comments:
+
+Still unsure about what encoders are being used
+They do use 5V power 
+
+
+Consider some extra I2C connectors just in case
+
