@@ -1,123 +1,126 @@
 Move Component(s) Origin to Grid
 Filename     : C:\Users\Adrianna\Documents\MarsRover2019-PCB\Projects\Science board\new_science_board\pcb\science_board_pcb.PcbDoc
-Date         : 2019-01-09
-Time         : 16:15:16
+Date         : 2019-01-12
+Time         : 14:14:09
 Time Elapsed : 00:00:00
 
 
-    SMT Small Component C16-CAP_10uF_0603_POL (2797.564mil,3320mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP21-TESTPOINT_LOOP (2688.488mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP20-TESTPOINT_LOOP (2814.913mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP19-TESTPOINT_LOOP (2435.638mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP18-TESTPOINT_LOOP (2562.063mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP17-TESTPOINT_LOOP (2941.338mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP16-TESTPOINT_LOOP (3320.614mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP15-TESTPOINT_LOOP (3447.039mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP14-TESTPOINT_LOOP (3067.764mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP13-TESTPOINT_LOOP (3194.189mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP12-TESTPOINT_LOOP (1677.086mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP11-TESTPOINT_LOOP (1803.512mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP10-TESTPOINT_LOOP (1424.236mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP9-TESTPOINT_LOOP (1550.661mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP8-TESTPOINT_LOOP (2182.787mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP7-TESTPOINT_LOOP (2309.212mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP6-TESTPOINT_LOOP (1929.937mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Small Component TP5-TESTPOINT_LOOP (2056.362mil,4568.213mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R9-RES_4M7_0603 (1812.564mil,3830mil) on GND - Component pads are OFF grid. No action taken.
-    Component Y1-CRYSTAL_32MHZ (3550mil,3523.23mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component VR1-5V0_3V3_LDO (1855mil,2807.5mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT SIP Component ULTRA-PH TOP SMD (3625.63mil,2397.99mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SOIC Component U5-LM2776 (1562.564mil,3480.866mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SOIC Component U4-TL081BCDG4 (2502.564mil,3355mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SOIC Component U3-CA3140AMZ (2107.564mil,3785mil) on Top Layer - Component pads are OFF grid. No action taken.
-    LCC Component U2-STM32F091RC (3455mil,3130mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SOIC Component U1-IC TXRX CAN (4288.78mil,3415mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component TP23-TESTPOINT_SMD (4320mil,4630mil) on Top Layer - Component origin is already ON grid.
-    SMT Small Component TP22-TESTPOINT_SMD (4325mil,4615mil) on Top Layer - Component origin is already ON grid.
+    SMT Small Component R23-RES_10K_0603 (3124.973mil,227.104mil) on GND - Component pads are OFF grid. No action taken.
+    Component M-F-PH TOP SMD (3125mil,127.957mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R27-RES_0R_0603 (1778.03mil,1355mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C16-CAP_10uF_0603_POL (1520mil,1505mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component TP21-TESTPOINT_LOOP (1410mil,2755mil) on Top Layer - Origin changed from [1410mil:2755mil] to [1410mil:2755mil]
+    Small Component TP20-TESTPOINT_LOOP (1535mil,2755mil) on Top Layer - Origin changed from [1535mil:2755mil] to [1535mil:2755mil]
+    Small Component TP19-TESTPOINT_LOOP (1155mil,2755mil) on Top Layer - Origin changed from [1155mil:2755mil] to [1155mil:2755mil]
+    Small Component TP18-TESTPOINT_LOOP (1280mil,2755mil) on Top Layer - Origin changed from [1280mil:2755mil] to [1280mil:2755mil]
+    Small Component TP17-TESTPOINT_LOOP (1660mil,2755mil) on Top Layer - Origin changed from [1660mil:2755mil] to [1660mil:2755mil]
+    Small Component TP16-TESTPOINT_LOOP (2040mil,2755mil) on Top Layer - Origin changed from [2040mil:2755mil] to [2040mil:2755mil]
+    Small Component TP15-TESTPOINT_LOOP (2165mil,2755mil) on Top Layer - Origin changed from [2165mil:2755mil] to [2165mil:2755mil]
+    Small Component TP14-TESTPOINT_LOOP (1790mil,2755mil) on Top Layer - Origin changed from [1790mil:2755mil] to [1790mil:2755mil]
+    Small Component TP13-TESTPOINT_LOOP (1915mil,2755mil) on Top Layer - Origin changed from [1915mil:2755mil] to [1915mil:2755mil]
+    Small Component TP12-TESTPOINT_LOOP (395mil,2755mil) on Top Layer - Origin changed from [395mil:2755mil] to [395mil:2755mil]
+    Small Component TP11-TESTPOINT_LOOP (525mil,2755mil) on Top Layer - Origin changed from [525mil:2755mil] to [525mil:2755mil]
+    Small Component TP10-TESTPOINT_LOOP (112.5mil,2505mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component TP9-TESTPOINT_LOOP (270mil,2755mil) on Top Layer - Origin changed from [270mil:2755mil] to [270mil:2755mil]
+    Small Component TP7-TESTPOINT_LOOP (905mil,2755mil) on Top Layer - Origin changed from [905mil:2755mil] to [905mil:2755mil]
+    Small Component TP8-TESTPOINT_LOOP (1030mil,2755mil) on Top Layer - Origin changed from [1030mil:2755mil] to [1030mil:2755mil]
+    Small Component TP6-TESTPOINT_LOOP (650mil,2755mil) on Top Layer - Origin changed from [650mil:2755mil] to [650mil:2755mil]
+    Small Component TP5-TESTPOINT_LOOP (827.918mil,2665mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R9-RES_4M7_0603 (535mil,2015mil) on GND - Component pads are OFF grid. No action taken.
+    Component Y1-CRYSTAL_32MHZ (2322.526mil,1683.465mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component VR1-5V0_3V3_LDO (575mil,990mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT SIP Component ULTRA-PH TOP SMD (2041.23mil,782.6mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component U5-LM2776 (285mil,1665mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component U4-TL081BCDG4 (1225mil,1540mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component U3-CA3140AMZ (830mil,1970mil) on Top Layer - Component pads are OFF grid. No action taken.
+    LCC Component U2-STM32F091RC (2175mil,1315mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component U1-IC TXRX CAN (2835.16mil,1689.448mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component TP23-TESTPOINT_SMD (3155mil,2735mil) on Top Layer - Origin changed from [3155mil:2735mil] to [3155mil:2735mil]
+    SMT Small Component TP22-TESTPOINT_SMD (2960mil,2770mil) on Top Layer - Origin changed from [2960mil:2770mil] to [2960mil:2770mil]
     SMT Small Component TP4-TESTPOINT_SMD (4535mil,4645mil) on Top Layer - Component origin is already ON grid.
-    SMT Small Component TP3-TESTPOINT_SMD (3730.252mil,4549mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component TP2-TESTPOINT_SMD (3554.252mil,4549mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component TP1-TESTPOINT_SMD (3642.252mil,4549mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Component TEMP-PH TOP SMD (4095mil,2052.99mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component S3-SW_TACTILE (3941.929mil,3970mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component S2-SW_TACTILE (3710mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    Component S1-SW_PWR (3785mil,3598.23mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Component RGB-PH TOP SMD (4087.01mil,3122.638mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R31-RES_10K_0603 (4655mil,4231.496mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R30-RES_10K_0603 (4440mil,4225mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R29-RES_100R_0603 (3440mil,3925mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R28-RES_100R_0603 (3370mil,4115mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R27-RES_100R_0603 (3458.504mil,4310mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R26-RES_100R_0603 (4221.496mil,4365mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R25-RES_10K_0603 (6109.448mil,1895.039mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R24-RES_10K_0603 (6390mil,2163.504mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R23-RES_10K_0603 (6355mil,1670mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R22-RES_10K_0603 (6595.588mil,1895.039mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R21-RES_10K_0603 (6927.242mil,1865.512mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R20-RES_10K_0603 (4125mil,4010mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R19-RES_4K7_0603 (6676.612mil,1895.039mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R18-RES_4K7_0603 (6050mil,1725mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R17-RES_10K_0603 (5610mil,1945mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R16-RES_100R_0603 (5480mil,2110mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R15-RES_1K_0603 (2162.564mil,3985mil) on GND - Component pads are OFF grid. No action taken.
-    Small Component R14-POT_5K (2132.564mil,4176.378mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R13-RES_2K2_0603 (2307.564mil,3792.599mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component R12-RES_75K_0603 (2037.564mil,3630mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R11-RES_30K_0603 (2102.564mil,3720mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component R10-RES_30K_0603 (2505mil,3205mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R8-RES_0R_0603 (3655mil,3528.23mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R7-RES_10K_0603 (6787.163mil,1865.512mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R6-RES_10K_0603 (3950mil,4525mil) on GND - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component R5-RES_10K_0603 (7347.478mil,1865.512mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R4-RES_10K_0603 (4013.504mil,4655mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component R3-RES_4K7_0603 (7207.399mil,1865.512mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R2-RES_120R_0603 (7067.32mil,1865.512mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component R1-RES_0R_0603 (4630mil,3585mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    DIP Component P1-HEADER 4X2 (4585mil,3050mil) on Top Layer - Component origin is already ON grid.
-    Component MOIST-PH TOP SMD (3061.26mil,3887.01mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Component M-S-PH TOP SMD (3136.77mil,2406.57mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Component M-E-PH TOP SMD (2176.26mil,1990mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Component M-C-PH TOP SMD (3170mil,1990mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    Component M-A-PH TOP SMD (2670mil,1990mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    Component LS-E-T-PH TOP SMD (4192.01mil,2739.37mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Component LS-E-B-PH TOP SMD (4560mil,2560mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    Component LS-C-PH TOP SMD (3644.37mil,1990mil) on Top Layer - Component pads are OFF grid. No action taken.
-    Component J2-CON_BNC (2715mil,4275mil) on Top Layer - Component origin is already ON grid.
-    Small Component J1-PH TOP TH (1995.63mil,3050mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT SIP Component E-E-PH TOP SMD (2532.99mil,2616.26mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT SIP Component E-C-PH TOP SMD (2167.99mil,2623.74mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component D6-DIO_LED_G (3780mil,4175mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component D5-DIO_LED_G (3780mil,4240mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component D4-DIO_LED_G (3780mil,4315mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component D3-DIO_LED_Y (3780mil,4390mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component D2-DIO_LED_R (5445mil,1865mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component D1-TVS_DIODE_CAN (4570mil,3410mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    Component CAN1-PH TOP SMD (4343.74mil,3902.01mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C27-CAP_10uF_0603 (5755mil,1810mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    SMT Small Component C26-CAP_0.33uF_16V_0603 (5910mil,1688.504mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C25-CAP_1uF_16V_0603 (1467.564mil,3630mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C24-CAP_1uF_16V_0603 (1577.564mil,3345mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C23-CAP_1uF_16V_0603 (1657.564mil,3630mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C22-CAP_0.1uF_50V_0603 (2067.564mil,3260mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C21-CAP_10uF_0603_POL (2262.564mil,3225mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C20-CAP_1uF_16V_0603 (2102.564mil,3800mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C19-CAP_10uF_0603_POL (1955.556mil,3465mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C18-CAP_0.1uF_50V_0603 (1892.564mil,3258.898mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C17-CAP_2.2nF_0603 (1812.564mil,3750mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C15-CAP_0.1uF_50V_0603 (2947.564mil,3350mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C14-CAP_10uF_0603_POL (2427.564mil,3755mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C13-CAP_0.1uF_50V_0603 (2607.564mil,3805mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C12-CAP_1uF_16V_0603 (3605mil,2908.23mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C11-CAP_10nF_0603 (3720mil,3288.23mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C10-CAP_4.7uF_0603 (3290mil,3303.23mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C9-CAP_0.1uF_16V_0603 (3640mil,3336.734mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C8-CAP_4.7uF_0603 (3410mil,3378.23mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C7-CAP_0.1uF_16V_0603 (3290mil,3223.23mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C6-CAP_0.1uF_16V_0603 (3306.496mil,3073.23mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C5-CAP_0.1uF_16V_0603 (3306.496mil,3003.23mil) on GND - Component pads are OFF grid. No action taken.
-    SMT Small Component C4-CAP_0.1uF_16V_0603 (3785mil,3453.23mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C3-CAP_15pF_0603 (3440mil,3524.726mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C2-CAP_15pF_0603 (3551.496mil,3628.23mil) on Top Layer - Component pads are OFF grid. No action taken.
-    SMT Small Component C1-CAP_0.1uF_16V_0603 (4695mil,3035mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
-    Small Component 1-Header 2 (4730mil,3450mil) on Top Layer - Component origin is already ON grid.
-count : 115
+    SMT Small Component TP3-TESTPOINT_SMD (3835mil,4710mil) on Top Layer - Component origin is already ON grid.
+    SMT Small Component TP2-TESTPOINT_SMD (2274.252mil,2734mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component TP1-TESTPOINT_SMD (2385mil,2790mil) on Top Layer - Origin changed from [2385mil:2790mil] to [2385mil:2790mil]
+    Component TEMP-PH TOP SMD (851.969mil,125mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component S3-SW_TACTILE (2168.15mil,2326.312mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component S2-SW_TACTILE (2300.906mil,2324.528mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component S1-SW_PWR (2530.354mil,1961.854mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component RGB-PH TOP SMD (3270mil,1240.314mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R33-RES_10K_0603 (1991.299mil,1860mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R31-RES_10K_0603 (2060mil,1860mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R32-RES_100R_0603 (2340.118mil,2172.598mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R30-RES_100R_0603 (2340.67mil,2102.598mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R29-RES_100R_0603 (2340.118mil,2032.598mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R28-RES_100R_0603 (2343.622mil,1952.598mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R26-RES_10K_0603 (3190.472mil,741.808mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R25-RES_10K_0603 (2770mil,735mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R24-RES_10K_0603 (2670mil,227.104mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R22-RES_10K_0603 (2375mil,763.153mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R21-RES_10K_0603 (1275mil,235mil) on GND - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R20-RES_10K_0603 (1820mil,240mil) on GND - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R19-RES_4K7_0603 (3354.275mil,1290.314mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R18-RES_4K7_0603 (3354.275mil,1195.314mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R17-RES_10K_0603 (2235.37mil,263.581mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R16-RES_100R_0603 (789.06mil,590.478mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R15-RES_1K_0603 (882.564mil,2170mil) on GND - Component pads are OFF grid. No action taken.
+    Small Component R14-POT_5K (860mil,2355mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R13-RES_2K2_0603 (1027.564mil,1977.599mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R12-RES_75K_0603 (757.564mil,1815mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R11-RES_30K_0603 (822.564mil,1905mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R10-RES_30K_0603 (1225mil,1390mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R8-RES_0R_0603 (2215mil,1750mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R7-RES_10K_0603 (1486.85mil,880mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R6-RES_10K_0603 (1095mil,875.038mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R5-RES_10K_0603 (1486.85mil,970.316mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R4-RES_10K_0603 (1095mil,965mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component R3-RES_4K7_0603 (890mil,240mil) on GND - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-RES_120R_0603 (3070mil,1715.063mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-RES_0R_0603 (3070.003mil,1795mil) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component P-HEADER 4X2 (2523.941mil,1295mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component MOIST-PH TOP SMD (1510mil,1899.099mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component M-P-PH TOP SMD (2380mil,627.989mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component M-E-PH TOP SMD (1316.575mil,126.378mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component M-C-PH TOP SMD (2237.338mil,128.896mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component M-A-PH TOP SMD (1781.181mil,128.895mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component LS-ET-PH TOP SMD (3032.01mil,739.09mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component LS-E-B-PH TOP SMD (3466.973mil,739.09mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component LS-C-PH TOP SMD (2671.023mil,127.957mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component J2-CON_BNC (1435mil,2460mil) on Top Layer - Origin changed from [1435mil:2460mil] to [1435mil:2460mil]
+    Small Component J1-PH TOP TH (715.63mil,1235mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT SIP Component E-E-PH TOP SMD (1275mil,809.962mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT SIP Component E-C-PH TOP SMD (887.99mil,808.74mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D6-DIO_LED_G (2603.701mil,2379.528mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D5-DIO_LED_G (2604.252mil,2304.528mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D4-DIO_LED_G (2603.701mil,2234.528mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D3-DIO_LED_Y (2603.701mil,2149.528mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D2-DIO_LED_R (665mil,561.934mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D1-TVS_DIODE_CAN (3113.408mil,1565.927mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component CAN-PH TOP SMD (2935mil,2154.152mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C27-CAP_10uF_0603 (660mil,719.428mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C26-CAP_0.33uF_16V_0603 (815mil,985mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C25-CAP_1uF_16V_0603 (187.564mil,1815mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C24-CAP_1uF_16V_0603 (297.564mil,1530mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C23-CAP_1uF_16V_0603 (377.564mil,1815mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C22-CAP_0.1uF_50V_0603 (787.564mil,1445mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C21-CAP_10uF_0603_POL (982.564mil,1410mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C20-CAP_1uF_16V_0603 (822.564mil,1985mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C19-CAP_10uF_0603_POL (675.556mil,1650mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C18-CAP_0.1uF_50V_0603 (612.564mil,1440mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C17-CAP_2.2nF_0603 (532.564mil,1935mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C15-CAP_0.1uF_50V_0603 (1667.564mil,1535mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C14-CAP_10uF_0603_POL (1147.564mil,1940mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C13-CAP_0.1uF_50V_0603 (1327.564mil,1990mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C12-CAP_1uF_16V_0603 (2308.503mil,1096.496mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C11-CAP_10nF_0603 (2410mil,1455mil) on GND - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C10-CAP_4.7uF_0603 (2010mil,1488.23mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C9-CAP_0.1uF_16V_0603 (2338.149mil,1453.663mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C8-CAP_4.7uF_0603 (2131.315mil,1542.403mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C7-CAP_0.1uF_16V_0603 (2010mil,1408.23mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C6-CAP_0.1uF_16V_0603 (1991.3mil,1215mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C5-CAP_0.1uF_16V_0603 (1991.299mil,1140mil) on GND - Component pads are OFF grid. No action taken.
+    SMT Small Component C4-CAP_0.1uF_16V_0603 (2505mil,1815mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-CAP_15pF_0603 (2429.726mil,1683.465mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-CAP_15pF_0603 (2325mil,1783.504mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C1-CAP_0.1uF_16V_0603 (2553.23mil,1126.024mil) on GND - Component pads are OFF grid. No action taken.
+    Small Component 1-Header 2 (3300mil,1525mil) on Top Layer - Component origin is already ON grid.
+count : 118
