@@ -194,6 +194,10 @@ DocumentUniqueId=MPQTOMIG
 DocumentPath=Project Outputs for science_board_proj_rev_1\connectors.NET
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for science_board_proj_rev_1\Design Rule Check - science_board_pcb.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
