@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DPFTEXWW
+DocumentUniqueId=
 
 [Document8]
 DocumentPath=..\..\..\Library\UWRT_Schematic_Library_2019.SchLib
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SPCGXPIL
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
