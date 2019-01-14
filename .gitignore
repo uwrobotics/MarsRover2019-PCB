@@ -1,3 +1,5 @@
+# Altium files to ignore
 **/History
-**/"Project Outputs"*
+**/Project\ Outputs*
+**/__Previews
 *.SchDocPreview
