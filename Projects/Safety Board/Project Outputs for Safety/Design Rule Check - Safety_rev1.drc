@@ -1,0 +1,73 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\ayesh\OneDrive\Documents\GitHub\MarsRover2019-PCB\Projects\Safety Board\Safety_rev1.PcbDoc
+Date     : 2019-01-13
+Time     : 11:00:54 PM
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=20mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=120mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mil) Between Pad UART-1(3205mil,3190mil) on Multi-Layer And Text "VCC" (3049.331mil,3182.126mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mil) Between Pad UART-4(3205mil,2890mil) on Multi-Layer And Text "RTS" (3052.284mil,2871.102mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.1mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "R11" (4445mil,2900mil) on Top Overlay And Track (4488.268mil,2890.748mil)(4492.205mil,2890.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "R13" (4445mil,3000mil) on Top Overlay And Track (4491.102mil,2990.748mil)(4495.039mil,2990.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "RTS" (3052.284mil,2871.102mil) on Top Overlay And Track (3155mil,2840mil)(3155mil,3240mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "RX" (3080.905mil,2977.402mil) on Top Overlay And Track (3155mil,2840mil)(3155mil,3240mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "TX" (3080.905mil,3079.764mil) on Top Overlay And Track (3155mil,2840mil)(3155mil,3240mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "VCC" (3049.331mil,3182.126mil) on Top Overlay And Track (3155mil,2840mil)(3155mil,3240mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :6
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (4625mil,2325mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4695mil,2325mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4720mil,2675mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4720mil,2740mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4770mil,2325mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4795mil,2675mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4797.126mil,2740mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4839.842mil,2325mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4868.504mil,2675mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4875mil,2745mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4925mil,2325mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4940mil,2675mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4950mil,2745mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4980.433mil,2460mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4980.433mil,2605mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4980mil,2390mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4980mil,2535mil) from Top Layer to Bottom Layer 
+Rule Violations :17
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 25
+Waived Violations : 0
+Time Elapsed        : 00:00:00
