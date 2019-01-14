@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SPCGXPIL
 
 [Configuration1]
 Name=Sources
@@ -186,7 +186,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -292,7 +292,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -364,7 +364,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -386,7 +386,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -458,7 +458,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -495,7 +495,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -675,7 +675,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -714,7 +714,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -765,7 +765,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother HL-2270DW series
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1389,54 +1389,57 @@ ModelType11=PCBLIB
 ModelName11=LED_0805
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=LTC2875
+ModelName12=LED_0805_LINE
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=PTS830GM140
+ModelName13=LTC2875
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=RESC0603(1608)_N
+ModelName14=PTS830GM140
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=STM_LQFP64_N
+ModelName15=RESC0603(1608)_N
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=TESTPOINT
+ModelName16=STM_LQFP64_N
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=TVS_DIODE_CAN
+ModelName17=TESTPOINT
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=VOLTAGE_REGULATOR
+ModelName18=TVS_DIODE_CAN
 ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=VOLTAGE_REGULATOR
+ModelUpdate19=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType19=SI
-ModelName19=Cap
-ModelUpdate19=1
 ModelType20=SI
-ModelName20=Cap Pol
+ModelName20=Cap
 ModelUpdate20=1
 ModelType21=SI
-ModelName21=Connector
+ModelName21=Cap Pol
 ModelUpdate21=1
 ModelType22=SI
-ModelName22=Res
+ModelName22=Connector
 ModelUpdate22=1
+ModelType23=SI
+ModelName23=Res
+ModelUpdate23=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
-ModelType23=SIM
-ModelName23=CAP
-ModelUpdate23=1
 ModelType24=SIM
-ModelName24=LED1
+ModelName24=CAP
 ModelUpdate24=1
 ModelType25=SIM
-ModelName25=RESISTOR
+ModelName25=LED1
 ModelUpdate25=1
 ModelType26=SIM
-ModelName26=XTAL
+ModelName26=RESISTOR
 ModelUpdate26=1
+ModelType27=SIM
+ModelName27=XTAL
+ModelUpdate27=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
