@@ -195,46 +195,50 @@ DocumentPath=fab/\BOM\Bill of Materials-science_board_proj_rev_1.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=fab/\Gerber\science_board_pcb.EXTREP
+DocumentPath=Project Outputs for science_board_proj_rev_1\Design Rule Check - science_board_pcb.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=fab/\Gerber\science_board_pcb.GBL
+DocumentPath=fab/\Gerber\science_board_pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=fab/\Gerber\science_board_pcb.GBO
+DocumentPath=fab/\Gerber\science_board_pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=fab/\Gerber\science_board_pcb.GBP
+DocumentPath=fab/\Gerber\science_board_pcb.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=fab/\Gerber\science_board_pcb.GBS
+DocumentPath=fab/\Gerber\science_board_pcb.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=fab/\Gerber\science_board_pcb.GTL
+DocumentPath=fab/\Gerber\science_board_pcb.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=fab/\Gerber\science_board_pcb.GTO
+DocumentPath=fab/\Gerber\science_board_pcb.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=fab/\Gerber\science_board_pcb.GTP
+DocumentPath=fab/\Gerber\science_board_pcb.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=fab/\Gerber\science_board_pcb.GTS
+DocumentPath=fab/\Gerber\science_board_pcb.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=fab/\Gerber\science_board_pcb.REP
+DocumentPath=fab/\Gerber\science_board_pcb.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
+DocumentPath=fab/\Gerber\science_board_pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
 DocumentPath=fab/\Gerber\science_board_pcb.RUL
 DItemRevisionGUID=
 
